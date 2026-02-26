@@ -31,6 +31,7 @@ This file serves as a place for me to keep notes and papers regarding this resea
 - [Technically labeled](https://www.kaggle.com/datasets/lichess/tournament-chess-games) (too big to store on Github)
 - [Technically labeled](https://www.kaggle.com/datasets/nuezzz/chess-dataset)
 - [Unlabeled](https://www.kaggle.com/datasets/arevel/chess-games) (too big to store on Github)
+
 Note that "Technically labeled" means that games within this dataset were played at in-person tournaments. Since there is in-person proctoring at these tournaments, those games could be considered to be completely fair, and contain no moves that are cheated. 
 - In this repo, labeled data files starts with l, technically labeled starts with t, and unlabeled starts with u
 
