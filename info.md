@@ -11,6 +11,7 @@ This file serves as a place for me to keep notes and papers regarding this resea
 - Label spreading
 
 ## Questions to answer
+- How should I encode a chess game for the models?
 - Can label spreading be used for prediction as well as giving labels to unlabeled data?
 - What should be the balance of the full dataset? Chess.com claims to detect cheating [in about 0.6%](https://www.chess.com/cheating) of accounts
 - How does lichess.org utilize [CNNs](https://github.com/lichess-org/kaladin) to detect cheating?
